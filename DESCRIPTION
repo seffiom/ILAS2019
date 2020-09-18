@@ -15,3 +15,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/seffiom/ILAS2019
+BugReports: https://github.com/seffiom/ILAS2019/issues
